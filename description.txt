@@ -1,0 +1,1 @@
+This is a redesign website based on Youtube's original website and all the svg resources come from https://fontawesome.com.
