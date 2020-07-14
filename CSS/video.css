@@ -345,6 +345,13 @@ img{
     width: 45px;
     margin-right: 5px;
 }
+.user2{
+    width:25px;
+    height:25px;
+    padding:3px;
+    border-radius:50%;
+    border:1px solid #065fd4;
+}
 input.text-line{
     background-color: transparent;
     color:grey;
